@@ -1,3 +1,4 @@
 Class.forName(driverClass);
+Class.forName(driverClass);
 out.close();
 hello world
