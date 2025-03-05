@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 Class.forName(driverClass);
 Class.forName(driverClass);
 out.close();
