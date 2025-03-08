@@ -1,3 +1,4 @@
+test.fetch();
 Class.forName(driverClass);
 BufferedWriter out = null;
 Class.forName(driverClass);
