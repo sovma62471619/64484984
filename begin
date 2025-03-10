@@ -1,3 +1,4 @@
+props.load(fs);
 BufferedWriter out = null;
 test.fetch();
 Class.forName(driverClass);
