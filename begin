@@ -1,3 +1,4 @@
+out.write(”aString”);
 test.init();
 props.load(fs);
 BufferedWriter out = null;
