@@ -1,4 +1,4 @@
-Class.forName(driverClass);
+String driverClass = "oracle.jdbc.driver.OracClass.forName(driverClass);
 rs.close();
 try {
 public class OracleJdbcTest
