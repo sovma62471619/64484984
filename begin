@@ -1,3 +1,4 @@
+ps.close();
 String driverClass = "oracle.jdbc.driver.OracClass.forName(driverClass);
 rs.close();
 try {
