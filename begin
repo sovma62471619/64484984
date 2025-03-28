@@ -1,3 +1,4 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 String userName = props.getProperty("db.user");
 ps.close();
 String driverClass = "oracle.jdbc.driver.OracClass.forName(driverClass);
