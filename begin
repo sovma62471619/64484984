@@ -1,3 +1,4 @@
+// error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 String userName = props.getProperty("db.user");
 ps.close();
