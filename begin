@@ -1,3 +1,4 @@
+// error processing code
 String url = props.getProperty("db.url");
 // error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
